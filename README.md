@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jelonne
 - 👀 I’m interested in ...
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Terraform and Azure
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me jelonne@gmail.com
 
